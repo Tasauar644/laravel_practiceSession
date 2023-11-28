@@ -1,0 +1,1 @@
+<h1>Triggered from header.blade.php</h1>
